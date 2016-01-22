@@ -1,0 +1,9 @@
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\bin\Release\TestData\test.zip
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\bin\Release\BizTalkComponents.PipelineComponents.ExtractZip.Tests.UnitTests.dll
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\bin\Release\BizTalkComponents.PipelineComponents.ExtractZip.Tests.UnitTests.pdb
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\bin\Release\Winterdom.BizTalk.PipelineTesting.dll
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\bin\Release\PipelineObjects.dll
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\bin\Release\Winterdom.BizTalk.PipelineTesting.xml
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\obj\Release\BizTalkComponents.PipelineComponents.ExtractZip.Tests.UnitTests.csprojResolveAssemblyReference.cache
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\obj\Release\BizTalkComponents.PipelineComponents.ExtractZip.Tests.UnitTests.dll
+E:\Projects\LKAB\2013R2\Shared.Resources\1.0\Projects\Pipeline Components\ExtractZip\Tests\UnitTests\obj\Release\BizTalkComponents.PipelineComponents.ExtractZip.Tests.UnitTests.pdb
